@@ -1,0 +1,176 @@
+body{  
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+
+    /*margin: 0 auto;*/
+    color: #66BFBF;
+    margin: 0 auto 0 auto; 
+   /*  line-height: 1; */
+    font-family: 'Sacramento', cursive ;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat' , sans-serif;
+    text-align: center;
+    /*font-size: 13px;*/
+    /*font-weight: normal;
+    margin: 0 auto 0 auto; 
+    text-align: left;
+    /* line-height: 1; */
+    /*display: inline-block;*/
+}
+
+.h3-hotwings{
+    color: #11999E;
+    font-family: 'Montserrat' , sans-serif;
+    text-align: right;
+    margin: 0 auto 0 auto;   
+}
+
+.h3-DD{
+    color: #11999E;
+    font-family: 'Montserrat' , sans-serif;
+    text-align: left;
+    margin: 0 auto 0 auto; 
+
+}
+
+.p-hotwings{ 
+     text-align: right;
+     width: 100%; 
+    padding-bottom:100px;
+}
+
+.p-DD{
+    text-align: left;
+    padding-bottom: 40px;
+    margin-bottom: 0;
+    width: 50%;
+}
+
+.top-container {
+
+    background-color: aquamarine;
+    position: relative;
+    padding: 100px;
+    margin: 0;
+    /*height: 200px;
+    width: 200px;
+    /*padding: 10px;
+    
+    display: inline-block;
+    position: absolute;
+    /*left: 1px;*/
+    
+}
+.skill-row{
+    width: 100%;
+    height: 100%;
+    padding-top: 100px;
+   /* margin: 0 auto 0 auto;
+    /*text-align: left;*/
+}
+
+
+
+.img-top-cloud{
+ 
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    right: 400px;
+
+}
+
+.mountains-top-container{
+
+    height: 400px;
+    width: 400px;
+    
+
+}
+.img-bottom-cloud{
+ 
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+.code-quality-img {
+  height: 120px;
+  width: 120px;
+  float: left;
+  padding-left : 200px;
+
+  margin: 0 auto 0 auto;
+}
+
+.chill-approve-img{
+
+    height: 120px;
+    width: 120px; 
+    float: right;
+    padding-right: 200px;
+    padding-bottom: 50px;
+
+
+}
+
+.girl-img{
+    
+    width: 150px;
+    height: 150px;
+    float: center;
+    margin: auto;
+    /*padding-left: 100px;*/
+
+}
+
+.profile-para{
+ 
+    text-align: center;
+   width: 100%;
+
+}
+.middle-container {
+
+    background-color: aquamarine;
+    margin: 0;
+    
+    /*border: 5px solid black;
+    display: inline-block;
+    position: absolute;
+    top:201px;
+    left:201px;
+    margin-left: 200px;*/
+}
+.profile{
+
+    width: 50%; 
+    margin: 0 auto 100px auto;
+    /*padding: 0 auto 0 auto;*/
+
+}
+.bottom-container {
+
+   background-color: aquamarine;
+    /*margin-left: 400px;
+    border: 5px solid blanchedalmond;
+    
+    display: inline-block;
+    position: absolute;
+    top:411px;
+    left:410px;*/
+}
+
+hr{
+   text-decoration-style: none;
+}
